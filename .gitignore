@@ -1,0 +1,7 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/PB.Jarvis.WebApp/v15
+/PB.Jarvis.Contracts/obj
+/PB.Jarvis.WebApp/obj
